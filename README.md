@@ -32,4 +32,3 @@
 Ну и далее проверяем данные до конца.
 
 
-![Алгоритм alt](https://github.com/kam17ale/finaltest/blob/main/Algoritm.png)
